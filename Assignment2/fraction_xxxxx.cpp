@@ -4,7 +4,7 @@
 #include <time.h>
 #include<stdlib.h>
 
-#include "fraction_17dym2.h"
+#include "fraction_xxxxx.h"
 
 using namespace std;
 
