@@ -3,7 +3,7 @@
 #include <vector>
 #include <time.h>
 
-#include "insultgenerator_17dym2.h"
+#include "insultgenerator_xxxxx.h"
 
 using namespace std;
 
